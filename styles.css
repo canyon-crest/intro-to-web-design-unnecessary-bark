@@ -1,1 +1,11 @@
+html {
+    background-image: linear-gradient(rgb(193, 238, 229), rgb(75, 234, 202));
+  }
 
+  p {
+    font-family: "Garamond", "Georgia", serif;
+    text-indent: 25px
+}
+h3 {
+    font-family: "Garamond", "Georgia", serif;
+}
