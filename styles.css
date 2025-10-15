@@ -9,3 +9,18 @@ html {
 h3 {
     font-family: "Garamond", "Georgia", serif;
 }
+.main-images {
+  float: left;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #1abc9c;
+  animation-name: images;
+  animation-duration: 4s;
+  animation-iteration-count: infinite
+}
+
+@keyframes images {
+    from {border-color: #1abc9c;}
+    to {border-color: darkcyan;}
+}
